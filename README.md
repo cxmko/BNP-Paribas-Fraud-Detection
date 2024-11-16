@@ -60,7 +60,7 @@ This metric is particularly suitable for imbalanced datasets as it prioritizes p
   - Benchmark 1 (Random Guessing): **0.017**.  
   - Benchmark 2 (Optimized ML Model): **0.14**.  
 
-Our model significantly outperformed the benchmarks through advanced feature engineering and optimized machine learning techniques.  
+Our model significantly outperformed the benchmarks.  
 
 ---
 
