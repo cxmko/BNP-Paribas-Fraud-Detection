@@ -2,7 +2,7 @@
 
 ## Description  
 
-This repository contains the code and resources for the BNP Paribas Fraud Detection Challenge hosted on Kaggle. Our team achieved **1st place on the leaderboard as of 2024**, with a test PR-AUC score of **0.3507**, significantly outperforming the benchmarks. The challenge focuses on building models to predict fraudulent transactions based on detailed shopping basket data, emphasizing the detection of the minority fraud class.  
+This repository contains the code and resources for the BNP Paribas Fraud Detection Challenge hosted by ENS. Our team achieved **1st place on the leaderboard as of 2024**, with a test PR-AUC score of **0.3507**, significantly outperforming the benchmarks. The challenge focuses on building models to predict fraudulent transactions based on detailed shopping basket data, emphasizing the detection of the minority fraud class.  
 
 ---
 
